@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T09:44:37.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lrvA-uIE2KY3ZZhQlI1v" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T09:47:13.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="htE1yWDJbJ7slMrNALKc" version="22.0.4" type="github">
   <diagram name="第 1 页" id="PNhr8kcbTlroX-baOO0i">
-    <mxGraphModel dx="6913" dy="3700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#000000" math="1" shadow="0">
+    <mxGraphModel dx="4148" dy="2220" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#000000" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -618,7 +618,7 @@
         <mxCell id="PrBTOdZ4H55qHyfsa1yD-322" value="Local-Level POI Representation Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="549.5" y="2279" width="477" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PrBTOdZ4H55qHyfsa1yD-323" value="POIs Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="PrBTOdZ4H55qHyfsa1yD-323" value="Node Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1194" y="692.88" width="161" height="79" as="geometry" />
         </mxCell>
         <mxCell id="PrBTOdZ4H55qHyfsa1yD-324" value="$$l_1$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=18;" parent="1" vertex="1">
