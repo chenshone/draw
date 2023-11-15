@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T15:10:11.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1jSQBtmPVv6qIDYGpNcI" version="22.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-15T15:12:48.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dQirYMt698Ew9PGER3fl" version="22.1.1" type="github" pages="2">
   <diagram name="第 1 页" id="PNhr8kcbTlroX-baOO0i">
-    <mxGraphModel dx="1975" dy="1046" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3650" pageHeight="1280" background="#000000" math="1" shadow="0">
+    <mxGraphModel dx="4609" dy="2440" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3650" pageHeight="1280" background="#000000" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         <mxCell id="PrBTOdZ4H55qHyfsa1yD-310" value="Layer K" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="1762" y="140.75" width="113.5" height="34.25" as="geometry" />
         </mxCell>
-        <mxCell id="PrBTOdZ4H55qHyfsa1yD-322" value="Local-Level&amp;nbsp;Bi-Tasking Graph Neural Network Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=45;" parent="1" vertex="1">
+        <mxCell id="PrBTOdZ4H55qHyfsa1yD-322" value="Local-Level&amp;nbsp;Cross-Modal Graph Neural Network Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=45;" parent="1" vertex="1">
           <mxGeometry x="696" y="2460" width="1099" height="64" as="geometry" />
         </mxCell>
         <mxCell id="PrBTOdZ4H55qHyfsa1yD-323" value="Node Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=30;" parent="1" vertex="1">
