@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T19:38:49.282Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ODQHEuWmr-00EkQ02Sll" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-26T06:40:58.422Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wQY5KfFdZDL6mmzjcnNt" version="22.1.18" type="github" pages="2">
   <diagram name="第 1 页" id="PNhr8kcbTlroX-baOO0i">
-    <mxGraphModel dx="5224" dy="3204" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3600" pageHeight="2600" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="1536" dy="942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3600" pageHeight="2600" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,8 +118,8 @@
         <mxCell id="PrBTOdZ4H55qHyfsa1yD-326" value="$$l_N$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1525.25" y="545.88" width="45" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="PrBTOdZ4H55qHyfsa1yD-327" value="Global POIs Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2256" y="402.88" width="147.5" height="53" as="geometry" />
+        <mxCell id="PrBTOdZ4H55qHyfsa1yD-327" value="Global POIs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2227.5" y="420.63" width="196" height="53" as="geometry" />
         </mxCell>
         <mxCell id="PrBTOdZ4H55qHyfsa1yD-328" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Cross-Entropy Loss&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;strokeWidth=2;horizontal=0;rotation=-180;fontSize=50;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="3428" y="827" width="117" height="1159" as="geometry" />
@@ -400,8 +400,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="698" y="1119" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-70" value="POI Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="550.5" y="1152" width="268" height="36" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-70" value="POIs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="550.5" y="1155" width="268" height="36" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="633" y="1235" width="33" height="33" as="geometry" />
@@ -412,8 +412,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="699" y="1235" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-74" value="POI Geographical Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="509.63" y="1282" width="330.75" height="46" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-74" value="Geographical Info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="524.75" y="1271" width="330.75" height="46" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="633" y="1383" width="33" height="33" as="geometry" />
@@ -424,8 +424,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="699" y="1383" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-78" value="POI Temporal Weight Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="530.5" y="1435" width="336" height="36" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-78" value="POI Temporal Weights" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="531" y="1423" width="336" height="36" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="634" y="1528" width="35" height="33" as="geometry" />
@@ -436,8 +436,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="701" y="1528" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-82" value="POI Time Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="516" y="1561" width="384" height="33" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-82" value="Check-in Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="497" y="1561" width="384" height="33" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="633" y="1640" width="33" height="33" as="geometry" />
@@ -448,20 +448,20 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="699" y="1640" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-86" value="Position Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="531" y="1675" width="350" height="38" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-86" value="Positions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="504.5" y="1677" width="350" height="38" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-87" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="666" y="1194" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-88" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="667.5" y="1343" width="30" height="30" as="geometry" />
+          <mxGeometry x="667.5" y="1330" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-89" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="671" y="1490" width="30" height="30" as="geometry" />
+          <mxGeometry x="671" y="1477" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-90" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="666.5" y="1603" width="30" height="30" as="geometry" />
+          <mxGeometry x="666.5" y="1598" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0000CC;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="633.5" y="989" width="33" height="33" as="geometry" />
@@ -472,7 +472,7 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0000CC;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="699.5" y="989" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-94" value="User Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-94" value="Users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="538.5" y="1022" width="294" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-95" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=none;strokeColor=default;strokeWidth=2;rotation=-45;direction=east;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
@@ -493,8 +493,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2098" y="1373" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-110" value="Local User Embeddings for Location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1932" y="1454.5" width="294" height="45" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-110" value="Local Users for Location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1932" y="1440" width="294" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-112" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="829.5" y="980.5" width="100" height="70" as="geometry" />
@@ -514,8 +514,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-117" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2053.5" y="975.5" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-118" value="Local POIs Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1923.5" y="1031" width="232" height="45" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-118" value="Local POIs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1919" y="1008.5" width="232" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="627" y="1807" width="33" height="33" as="geometry" />
@@ -526,8 +526,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-121" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="693" y="1807" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-122" value="Category Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1845" width="367" height="32" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-122" value="Categories" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="487.5" y="1843" width="367" height="32" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="630" y="1928" width="33" height="33" as="geometry" />
@@ -538,8 +538,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-133" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="696" y="1928" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-134" value="POI Time Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1968" width="369.5" height="40" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-134" value="Check-in Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="482.25" y="1968" width="369.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-135" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="628" y="2049" width="33" height="33" as="geometry" />
@@ -550,8 +550,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="694" y="2049" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-138" value="Position Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="528" y="2082" width="345" height="41" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-138" value="Positions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="504.5" y="2082" width="345" height="41" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-139" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="666.5" y="1887" width="30" height="30" as="geometry" />
@@ -568,8 +568,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-145" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0000CC;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="691" y="2263" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-146" value="User Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="537.63" y="2300.88" width="296.75" height="44" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-146" value="Users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="518.62" y="2297" width="296.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-148" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;strokeWidth=3;fontColor=default;fontSize=30;dashed=1;dashPattern=1 4;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="983" y="1791" width="200" height="218" as="geometry" />
@@ -604,8 +604,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-158" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2106" y="1936" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-159" value="Local User Embeddings for Category" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="2016" width="287" height="45" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-159" value="Local Users for Category" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1939" y="1997" width="287" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-161" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="815" y="2244.5" width="100" height="70" as="geometry" />
@@ -625,8 +625,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-166" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2058" y="2238.5" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-167" value="Local Categories Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1928" y="2315" width="232" height="45" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-167" value="Local Categories" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1911.75" y="2281" width="289.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-168" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=none;strokeColor=default;strokeWidth=2;rotation=54;direction=east;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="387" y="2103" width="145" height="78" as="geometry" />
@@ -651,8 +651,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-174" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999900;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2840.25" y="474.25" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-175" value="POIs Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2750" y="404.88" width="147.5" height="53" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-175" value="POIs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2750" y="420.63" width="147.5" height="53" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-177" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2993" y="473.6300000000001" width="33" height="33" as="geometry" />
@@ -663,8 +663,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-179" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="3059" y="473.6300000000001" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-180" value="Position Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2957" y="415.7500000000001" width="185" height="32" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-180" value="Positions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2950" y="420.63" width="185" height="51" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-181" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2907" y="465.88" width="50" height="50" as="geometry" />
@@ -696,8 +696,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-190" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2949.25" y="981" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-191" value="User Embeddings for Location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2987.5" y="963" width="231.5" height="53" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-191" value="Users for Location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2950" y="969" width="231.5" height="53" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-218" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=default;rounded=0;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" source="JnFQR-dMiFV1Tu1PzdE1-192" target="JnFQR-dMiFV1Tu1PzdE1-215" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -716,8 +716,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-194" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999900;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2845.5" y="2259.25" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-195" value="Categories Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2755.25" y="2311.5" width="147.5" height="53" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-195" value="Categories&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2755.25" y="2292.5" width="147.5" height="53" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2998.25" y="2258.63" width="33" height="33" as="geometry" />
@@ -728,8 +728,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-198" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="3064.25" y="2258.63" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-199" value="Position Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2982.25" y="2306.5" width="137" height="65" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-199" value="Positions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2979.25" y="2286.5" width="137" height="65" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-200" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2912.25" y="2250.88" width="50" height="50" as="geometry" />
@@ -755,8 +755,8 @@
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-208" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2954.5" y="1798.5" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-209" value="User Embeddings for Category" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2993" y="1799.5" width="217" height="38.5" as="geometry" />
+        <mxCell id="JnFQR-dMiFV1Tu1PzdE1-209" value="Users for Category" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2962.25" y="1795.75" width="217" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="JnFQR-dMiFV1Tu1PzdE1-210" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2569" y="2236" width="100" height="70" as="geometry" />
@@ -818,8 +818,8 @@
         <mxCell id="W3dQssfoFB5kCdI35nBZ-5" value="Layer K" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2069" y="908" width="185" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="W3dQssfoFB5kCdI35nBZ-6" value="Layer K" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2068" y="1733" width="185" height="32" as="geometry" />
+        <mxCell id="W3dQssfoFB5kCdI35nBZ-6" value="Layer K" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2064" y="1734" width="185" height="32" as="geometry" />
         </mxCell>
         <mxCell id="W3dQssfoFB5kCdI35nBZ-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2248" y="1197" width="71.5" height="46" as="geometry" />
@@ -836,8 +836,8 @@
         <mxCell id="W3dQssfoFB5kCdI35nBZ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2414" y="981" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="W3dQssfoFB5kCdI35nBZ-12" value="Local POIs Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2284" y="1036.5" width="232" height="45" as="geometry" />
+        <mxCell id="W3dQssfoFB5kCdI35nBZ-12" value="Local POIs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2281.5" y="1014" width="232" height="45" as="geometry" />
         </mxCell>
         <mxCell id="W3dQssfoFB5kCdI35nBZ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2345" y="1371.5" width="33" height="33" as="geometry" />
@@ -851,8 +851,8 @@
         <mxCell id="W3dQssfoFB5kCdI35nBZ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2411" y="1371.5" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="W3dQssfoFB5kCdI35nBZ-16" value="Local User Embeddings for Location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2248" y="1448" width="294" height="45" as="geometry" />
+        <mxCell id="W3dQssfoFB5kCdI35nBZ-16" value="Local Users for Location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2246.5" y="1431" width="294" height="45" as="geometry" />
         </mxCell>
         <mxCell id="W3dQssfoFB5kCdI35nBZ-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=none;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2251" y="2135" width="71.5" height="46" as="geometry" />
@@ -869,8 +869,8 @@
         <mxCell id="W3dQssfoFB5kCdI35nBZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2409" y="1935.5" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="W3dQssfoFB5kCdI35nBZ-21" value="Local User Embeddings for Category" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2247" y="2010.5" width="287" height="45" as="geometry" />
+        <mxCell id="W3dQssfoFB5kCdI35nBZ-21" value="Local Users for Category" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2248" y="1994" width="287" height="45" as="geometry" />
         </mxCell>
         <mxCell id="W3dQssfoFB5kCdI35nBZ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2344" y="2236" width="33" height="33" as="geometry" />
@@ -881,8 +881,8 @@
         <mxCell id="W3dQssfoFB5kCdI35nBZ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;strokeColor=default;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2410" y="2236" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="W3dQssfoFB5kCdI35nBZ-25" value="Local Categories Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2280" y="2312.5" width="232" height="45" as="geometry" />
+        <mxCell id="W3dQssfoFB5kCdI35nBZ-25" value="Local Categories" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=35;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2254" y="2275.63" width="270.5" height="45.37" as="geometry" />
         </mxCell>
         <mxCell id="aCgKGS1x7tzrQtVy-y0e-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;strokeWidth=3;fontColor=default;fontSize=30;dashed=1;dashPattern=1 4;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1333" y="1253" width="200" height="218" as="geometry" />
